@@ -1,0 +1,100 @@
+@charset "utf-8";
+h2 {text-align: center;
+font-size: 200%;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+h1{text-align: center;
+font-size: 180%;
+font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+color:#246261}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+section {
+	padding-left: 20%;
+	padding-right: 20%;
+	background-color:#AE8D51;
+}
+header {
+padding-left: 10%;
+	padding-right: 10%;
+}
+p, li {padding-bottom: 10px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+	;
+}
+
+.sectionColor{ background-color:#AE8D51;
+	
+}
+strong{font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 30px;
+color: #FFFFFF}
+.img2{width: 60%
+}
+body{margin: 0;
+background-color: #EFE0C5}
+
+
+.box { background-attachment: fixed;
+	background-color:#246261;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	
+}
+.black{color:#000000;
+font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"} 
+a {color: #246261}
+
+a:hover {
+	color:#F26A4B
+}
+.button {
+  background-color: #24626;
+  border: none;
+  color:#F26A4B;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px; 
+}
+.button1 {
+  background-color: #246261; 
+  color: #24626; 
+  border: 2px solid #24626;
+}
+
+.button1:hover {
+  background-color: #F26A4B;
+  color:#246261;
+}
+.img3 {width: 250px;
+border-radius: 50px;
+}
+footer {
+  margin-top: 20px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#F26A4B;
+  color: white;
+text-align: center; 
+
+}.img4 {
+}
+.img4 {width: 200px}
